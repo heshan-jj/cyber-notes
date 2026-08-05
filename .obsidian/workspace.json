@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "a48d86f12952f93c",
+    "type": "split",
+    "children": [
+      {
+        "id": "119d1180ddf07b2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c6fe685d2dc68c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 02/NIST CSF Core Functions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "NIST CSF Core Functions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "faf86e29a03769cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf6ddb2e7047dc99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4afc48fe9b7bfda8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f08cf744005c3b58",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "CSF",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "82b3e949038a5f9d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 323.8999938964844
+  },
+  "right": {
+    "id": "41fff84c0af2fde7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e6fafe0b2ea0e2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "197aaeeb3cfc13e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6123933e033bfc75",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b950f2719f6579ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "19cc046f5311a0d9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "51dacaa7315836de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5c6fe685d2dc68c3",
+  "lastOpenFiles": [
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 04/Tools and their purposes.md",
+    "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 02/NIST CSF Core Functions.md",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 03/Controls, Frameworks, and Compliance.md",
+    "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 02/Frameworks and Controls.md",
+    "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 02",
+    "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 01/Common Threats, Risks, and Vulnerabilities.md",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 01/Cybersecurity Fundamentals.md",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Glossary.md",
+    "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 01/NIST Risk Management Framework.md",
+    "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 01/CISSP 8 Security Domains.md",
+    "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 01/Glossary.md",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 03/Security Ethics.md",
+    "Cyber Security Cert by Google/C2 - Managing Security Risks/Common Threats, Risks, and Vulnerabilities.md",
+    "Cyber Security Cert by Google/C2 - Managing Security Risks/NIST Risk Management Framework.md",
+    "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 01",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Common Cyber Security Attacks.md",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/CISSP Domains.md",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Attack Types.md",
+    "Cyber Security Cert by Google/C2 - Managing Security Risks",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 04/Common Security Tools.md",
+    "Cyber Security Cert by Google/Foundations of Cyber Security/Module 04/Glossary.md",
+    "Cyber Security Cert by Google/Foundations of Cyber Security/Module 04/Untitled.md",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 04",
+    "Untitled",
+    "Cyber Security Cert by Google/Foundations of Cyber Security/Module 03/Glossary.md",
+    "Cyber Security Cert by Google/Foundations of Cyber Security/Module 03/Ethics in Cyber Security.md",
+    "Cyber Security Cert by Google/Foundations of Cyber Security/Module 01/Security Ethics.md",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Threat Actors.md",
+    "Cyber Security Cert by Google/Foundations of Cyber Security/Module 02/Glossary.md",
+    "Cyber Security Cert by Google/Foundations of Cyber Security/Module 01/Glossary.md",
+    "Cyber Security Cert by Google/Google Cybersecurity Certificate Index.md",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 03",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Attachments/Pasted image 20260802192521.png",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Attachments/Pasted image 20260802192504.png",
+    "Cyber Security Cert by Google/Foundations of Cyber Security/Module 02/Attachments/Pasted image 20260802184654.png",
+    "Cyber Security Cert by Google/Foundations of Cyber Security/Module 02/Attachments/Pasted image 20260802184615.png",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Attachments/Pasted image 20260802184551.png",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Attachments",
+    "Untitled.canvas",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 01"
+  ]
+}
