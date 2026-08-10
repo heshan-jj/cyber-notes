@@ -72,3 +72,10 @@ Controls are used alongside frameworks to reduce the possibility and impact of a
 
 > [!tip] Summary
 > Cybersecurity frameworks and controls are used together to establish an organization’s security posture. They support an organization’s ability to meet security goals and comply with laws and regulations. Although often voluntary, implementing them is strongly encouraged to ensure the safety of critical assets.
+
+---
+
+## Related Notes
+- [[Controls, Frameworks, and Compliance]]
+- [[NIST CSF Core Functions]]
+- [[NIST Risk Management Framework]]

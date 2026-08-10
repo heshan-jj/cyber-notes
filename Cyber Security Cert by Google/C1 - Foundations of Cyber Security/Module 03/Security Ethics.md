@@ -66,3 +66,4 @@ To uphold these principles, you must:
 
 ## Related Notes
 - [[Cybersecurity Fundamentals]]
+- [[Controls, Frameworks, and Compliance]]

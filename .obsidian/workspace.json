@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 02/NIST CSF Core Functions.md",
+                "file": "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 04/Playbooks and Incident Response.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "NIST CSF Core Functions"
+              "title": "Playbooks and Incident Response"
             }
           }
         ]
@@ -185,13 +185,22 @@
   },
   "active": "5c6fe685d2dc68c3",
   "lastOpenFiles": [
-    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 04/Tools and their purposes.md",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 01/Cybersecurity Fundamentals.md",
+    "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 04/Playbooks and Incident Response.md",
+    "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 03/SIEM Dashboards (Splunk & Chronicle).md",
+    "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 04",
+    "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 03/Logs and SIEM Tools.md",
     "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 02/NIST CSF Core Functions.md",
+    "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 03",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Threat Actors.md",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Common Cyber Security Attacks.md",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Attack Types.md",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/CISSP Domains.md",
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 04/Tools and their purposes.md",
     "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 03/Controls, Frameworks, and Compliance.md",
     "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 02/Frameworks and Controls.md",
     "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 02",
     "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 01/Common Threats, Risks, and Vulnerabilities.md",
-    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 01/Cybersecurity Fundamentals.md",
     "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Glossary.md",
     "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 01/NIST Risk Management Framework.md",
     "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 01/CISSP 8 Security Domains.md",
@@ -200,9 +209,6 @@
     "Cyber Security Cert by Google/C2 - Managing Security Risks/Common Threats, Risks, and Vulnerabilities.md",
     "Cyber Security Cert by Google/C2 - Managing Security Risks/NIST Risk Management Framework.md",
     "Cyber Security Cert by Google/C2 - Managing Security Risks/Module 01",
-    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Common Cyber Security Attacks.md",
-    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/CISSP Domains.md",
-    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Attack Types.md",
     "Cyber Security Cert by Google/C2 - Managing Security Risks",
     "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 04/Common Security Tools.md",
     "Cyber Security Cert by Google/Foundations of Cyber Security/Module 04/Glossary.md",
@@ -212,10 +218,6 @@
     "Cyber Security Cert by Google/Foundations of Cyber Security/Module 03/Glossary.md",
     "Cyber Security Cert by Google/Foundations of Cyber Security/Module 03/Ethics in Cyber Security.md",
     "Cyber Security Cert by Google/Foundations of Cyber Security/Module 01/Security Ethics.md",
-    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Threat Actors.md",
-    "Cyber Security Cert by Google/Foundations of Cyber Security/Module 02/Glossary.md",
-    "Cyber Security Cert by Google/Foundations of Cyber Security/Module 01/Glossary.md",
-    "Cyber Security Cert by Google/Google Cybersecurity Certificate Index.md",
     "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 03",
     "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Attachments/Pasted image 20260802192521.png",
     "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Attachments/Pasted image 20260802192504.png",
@@ -224,8 +226,6 @@
     "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Attachments/Pasted image 20260802184551.png",
     "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Attachments",
     "Untitled.canvas",
-    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security",
-    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02",
-    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 01"
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security"
   ]
 }

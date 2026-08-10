@@ -33,7 +33,7 @@ They work together to ensure security goals and processes are implemented correc
 | Concept | Description |
 |---------|-------------|
 | **Security Controls** | Safeguards designed to reduce specific security risks. |
-| **Security Frameworks** | Guidelines used for building plans to help mitigate risks and threats to data and privacy. |
+| **Security Frameworks** | Guidelines used for building plans to help mitigate risks and threats to data and privacy. See [[Frameworks and Controls]]. |
 | **Compliance** | The process of adhering to internal standards and external regulations. |
 
 ### Security Framework Components
@@ -49,7 +49,7 @@ Frameworks have four core components:
 
 > [!info] The National Institute of Standards and Technology (NIST)
 > A U.S.-based agency that develops multiple voluntary compliance frameworks that organizations worldwide can use to help manage risk. The more aligned an organization is with compliance, the lower the risk. 
-> *Examples: NIST Cybersecurity Framework (CSF), NIST Risk Management Framework (RMF).*
+> *Examples: NIST Cybersecurity Framework ([[NIST CSF Core Functions|CSF]]), NIST Risk Management Framework ([[NIST Risk Management Framework|RMF]]).*
 
 | Framework / Regulation | Focus | Description |
 |------------------------|-------|-------------|
@@ -77,3 +77,7 @@ Frameworks have four core components:
 ## Related Notes
 
 - [[Cybersecurity Fundamentals]]
+- [[Frameworks and Controls]]
+- [[NIST Risk Management Framework]]
+- [[NIST CSF Core Functions]]
+- [[Security Ethics]]

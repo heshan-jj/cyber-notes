@@ -66,3 +66,11 @@ Be aware of how systems are operating. Part of maintaining a low level of risk i
 
 > [!tip] Summary
 > The RMF provides a structured approach to risk management. As an analyst, your role revolves heavily around continuous monitoring, documenting, assessing controls, and supporting the broader security goals of the organization.
+
+---
+
+## Related Notes
+- [[NIST CSF Core Functions]]
+- [[Frameworks and Controls]]
+- [[Common Threats, Risks, and Vulnerabilities]]
+- [[CISSP 8 Security Domains]]

@@ -139,3 +139,4 @@ aliases:
 - [[Common Cyber Security Attacks]]
 - [[Threat Actors]]
 - [[CISSP Domains]]
+- [[Common Threats, Risks, and Vulnerabilities]]

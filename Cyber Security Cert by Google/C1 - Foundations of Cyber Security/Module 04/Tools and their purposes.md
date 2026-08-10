@@ -83,3 +83,10 @@ It is a thorough risk assessment that can evaluate and identify external and int
 
 > [!tip] Summary
 > Every organization selects their own set of tools. Therefore, the more tools you know, the more valuable you are to an organization. Tools help security analysts complete their tasks more efficiently and effectively.
+
+---
+
+## Related Notes
+- [[Common Security Tools]]
+- [[Logs and SIEM Tools]]
+- [[Glossary]]

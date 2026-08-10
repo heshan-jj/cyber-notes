@@ -155,3 +155,8 @@ Programming allows analysts to automate repetitive tasks such as log analysis, t
 ## Related Notes
 
 - [[Threat Actors]]
+- [[CISSP Domains]]
+- [[Controls, Frameworks, and Compliance]]
+- [[Security Ethics]]
+- [[Common Security Tools]]
+- [[Logs and SIEM Tools]]

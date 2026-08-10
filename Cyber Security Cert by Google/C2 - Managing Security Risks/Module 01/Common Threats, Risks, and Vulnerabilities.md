@@ -40,7 +40,7 @@ Some common strategies used to manage risks include:
 - **Transference:** Transferring risk to a third party to manage
 - **Mitigation:** Lessening the impact of a known risk
 
-Organizations implement risk management processes based on widely accepted frameworks to help protect assets, such as the **National Institute of Standards and Technology Risk Management Framework (NIST RMF)** and **Health Information Trust Alliance (HITRUST)**.
+Organizations implement risk management processes based on widely accepted frameworks to help protect assets, such as the **National Institute of Standards and Technology Risk Management Framework ([[NIST Risk Management Framework|NIST RMF]])** and **Health Information Trust Alliance (HITRUST)**.
 
 ---
 
@@ -51,7 +51,7 @@ Organizations implement risk management processes based on widely accepted frame
 > A **threat** is any circumstance or event that can negatively impact assets. 
 
 As an entry-level security analyst, your job is to help defend the organizationâ€™s assets from inside and outside threats. Common threats include:
-- **Insider threats:** Staff members or vendors abuse their authorized access to obtain data that may harm an organization.
+- **[[Threat Actors|Insider threats]]:** Staff members or vendors abuse their authorized access to obtain data that may harm an organization.
 - **Advanced persistent threats (APTs):** A threat actor maintains unauthorized access to a system for an extended period of time.
 
 ## Risks
@@ -60,7 +60,7 @@ As an entry-level security analyst, your job is to help defend the organizationâ
 > *Basic formula: Risk = Likelihood of a threat.*
 
 Different factors can affect the likelihood of a risk:
-- **External risk:** Anything outside the organization that has the potential to harm organizational assets (e.g., threat actors).
+- **External risk:** Anything outside the organization that has the potential to harm organizational assets (e.g., [[Threat Actors|threat actors]]).
 - **Internal risk:** A current or former employee, vendor, or trusted partner who poses a security risk.
 - **Legacy systems:** Old systems that might not be accounted for or updated, but can still impact assets (e.g., an old vending machine taking credit card payments, or a workstation connected to a legacy accounting system).
 - **Multiparty risk:** Outsourcing work to third-party vendors can give them access to intellectual property (trade secrets, software designs, inventions).
@@ -92,3 +92,10 @@ As an analyst, you might work in vulnerability management: monitoring a system t
 
 > [!tip] Summary
 > Risk management strategies and frameworks help develop organization-wide policies to mitigate threats, risks, and vulnerabilities. Understanding common threats (APTs, insider threats), risks (legacy systems, multiparty risks), and vulnerabilities (Log4Shell, ZeroLogon) prepares you to protect organizations effectively.
+
+---
+
+## Related Notes
+- [[Attack Types]]
+- [[Threat Actors]]
+- [[NIST Risk Management Framework]]

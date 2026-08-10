@@ -130,3 +130,6 @@ Security cannot be an afterthought. Performing application security tests ensure
 
 ## Related Notes
 - [[CISSP Domains]]
+- [[Common Threats, Risks, and Vulnerabilities]]
+- [[NIST Risk Management Framework]]
+- [[Logs and SIEM Tools]]

@@ -131,4 +131,4 @@ Embeds security into the software development lifecycle (SDLC) so vulnerabilitie
 - [[Common Cyber Security Attacks]]
 - [[Threat Actors]]
 - [[CISSP 8 Security Domains]]
-
+- [[Logs and SIEM Tools]]

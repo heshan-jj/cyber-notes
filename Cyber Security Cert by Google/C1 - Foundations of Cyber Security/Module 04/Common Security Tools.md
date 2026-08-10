@@ -90,3 +90,10 @@ The process of properly working with fragile and volatile digital evidence to en
 ## Resources for More Information
 - **Threat Horizon Report:** Provided by the Google Cybersecurity Action Team for strategic intelligence on cloud enterprise threats.
 - **CISA Free Cybersecurity Services and Tools:** A list provided by the Cybersecurity & Infrastructure Security Agency to learn more about open-source cybersecurity tools.
+
+---
+
+## Related Notes
+- [[Tools and their purposes]]
+- [[Logs and SIEM Tools]]
+- [[Glossary]]
