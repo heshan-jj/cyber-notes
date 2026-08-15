@@ -41,7 +41,7 @@ Security analysts access a variety of logs from different sources to monitor sys
 ## Why Use SIEM?
 
 - **Efficiency & Time Saving:** SIEM tools index and minimize the number of logs a security professional must manually review and analyze.
-- **Customization:** They must be configured and customized to meet each organization's unique security needs. 
+- **Customization:** They must be configured and customized to meet each organization's unique security needs.
 - **Adaptability:** As new threats and vulnerabilities emerge, organizations must continually customize their SIEM tools to ensure threats are detected and quickly addressed.
 
 ---
@@ -68,7 +68,6 @@ As cybersecurity evolves, SIEM tools adapt to new environments and technologies.
 - **Integration:** The ongoing goal is for cybersecurity platforms to seamlessly communicate and interact with one another.
 
 ---
-
 
 # Key Terms at a Glance
 

@@ -89,4 +89,4 @@ It is a thorough risk assessment that can evaluate and identify external and int
 ## Related Notes
 - [[Common Security Tools]]
 - [[Logs and SIEM Tools]]
-- [[Glossary]]
+- [[Cyber Security Cert by Google/C2 - Managing Security Risks/Glossary]]
