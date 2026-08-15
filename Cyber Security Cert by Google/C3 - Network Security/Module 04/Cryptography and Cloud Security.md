@@ -103,7 +103,7 @@ Protecting encryption keys is as important as encrypting the data itself.
 > While CSPs encrypt customer data using their own keys, **almost all CSPs allow customers to provide their own encryption keys** for their services. In this case:
 > - The customer is fully responsible for keeping those keys confidential
 > - If the customer's keys are lost or compromised, **the CSP has very limited ability to help**
-> - This is a key benefit of the **[[Cloud Security\|shared responsibility model]]** — the customer retains control
+> - This is a key benefit of the **[[Cloud Security|shared responsibility model]]** — the customer retains control
 
 > [!tip] Federal Contractors
 > For U.S. federal contractors, **FedRAMP** provides a verified list of CSPs that meet federal security requirements.

@@ -96,4 +96,3 @@ The process of properly working with fragile and volatile digital evidence to en
 ## Related Notes
 - [[Tools and their purposes]]
 - [[Logs and SIEM Tools]]
-- [[Cyber Security Cert by Google/C2 - Managing Security Risks/Glossary]]
