@@ -1,0 +1,141 @@
+---
+tags:
+  - cybersecurity
+  - access-controls
+  - AAA-framework
+  - authorization
+  - separation-of-duties
+  - OAuth
+  - API-tokens
+  - basic-auth
+  - google-cert
+  - module-02
+  - course-05
+aliases:
+  - Authorization and OAuth
+  - AAA Framework - Authorization
+  - Separation of Duties
+  - HTTP Basic Auth vs OAuth
+---
+
+> [!abstract] Authorization, Separation of Duties, and OAuth
+> While **Authentication** confirms identity (*"Who are you?"*), **Authorization** determines permissions (*"What are you allowed to do?"*). Effective authorization is governed by the **Principle of Least Privilege** and the **Separation of Duties (SoD)**, enforced across networks using modern delegated authorization protocols like **OAuth** and **API Tokens**.
+
+---
+
+# Authentication vs. Authorization
+
+Within the **AAA Framework**, authentication and authorization work in close tandem:
+
+```
+┌──────────────────────────────┐              ┌──────────────────────────────┐
+│        AUTHENTICATION        │              │        AUTHORIZATION         │
+├──────────────────────────────┤              ├──────────────────────────────┤
+│ • Answers: "Who are you?"    │  ──────────► │ • Answers: "What can you do?"│
+│ • Validates credentials      │  (Once ID is │ • Enforces permissions &     │
+│ • Grants or denies entry     │   confirmed) │   access boundaries          │
+└──────────────────────────────┘              └──────────────────────────────┘
+```
+
+Authorization ensures that users, applications, and automated processes are strictly limited to the specific files, databases, and network services necessary to fulfill their roles.
+
+---
+
+# Core Principles Guiding Authorization
+
+Authorization systems rely on two foundational security doctrines to minimize internal and external risks:
+
+## 1. Principle of Least Privilege (PoLP)
+- Access permissions are granted on a **need-to-know** basis and are time-bound.
+- Users and systems retain access only for the specific duration required to complete a task.
+
+## 2. Separation of Duties (SoD)
+
+> [!info] Definition
+> **Separation of Duties (SoD)** is the principle that critical tasks and responsibilities must be divided among multiple individuals or systems to prevent misuse, fraud, negligence, or undetected errors.
+
+### Why Separation of Duties Matters
+- **Prevents Conflicts of Interest:** A customer support agent should not have the authority to evaluate or approve their own quality scores.
+- **Ensures Objective Verification:** A developer who writes code should not be the sole person authorized to test and push it to production (developers are often blind to their own bugs and vulnerabilities).
+- **Universal Application:** Applies not only to human staff, but also across **networks, databases, automated workflows, and microservices**.
+
+---
+
+# Web Access & Authorization Protocols
+
+To authorize users and systems across networks, organizations implement standardized communication protocols:
+
+```
+                 ┌────────────────────────────────┐
+                 │     NETWORK AUTHORIZATION      │
+                 └───────────────┬────────────────┘
+         ┌───────────────────────┴───────────────────────┐
+         ▼                                               ▼
+┌──────────────────┐                            ┌──────────────────┐
+│ HTTP BASIC AUTH  │                            │      OAUTH       │
+│  (Legacy / Risk) │                            │ (Modern Standard)│
+└──────────────────┘                            └──────────────────┘
+```
+
+---
+
+## 1. HTTP Basic Auth
+
+> [!warning] Security Risk
+> **Basic Auth** is an older protocol where a client transmits credentials (username and password) encoded with every HTTP request header.
+
+- **Vulnerability:** Over unencrypted HTTP, credentials are sent in base64 plaintext, making them easily intercepted by attackers performing packet sniffing or Man-in-the-Middle (MitM) attacks.
+- **Mitigation:** If Basic Auth is used, it must be encapsulated within **HTTPS** (Hypertext Transfer Protocol Secure) to encrypt transit traffic with TLS.
+
+---
+
+## 2. OAuth (Open Authorization)
+
+> [!info] Definition
+> **OAuth** is an open-standard authorization protocol that allows a third-party application to obtain designated, limited access to a user's data on another service **without exposing the user's password**.
+
+- **Delegated Access Example:** Clicking *"Sign in with Google"* or *"Continue with GitHub"* on a third-party website. The third-party site gains permission to view profile details without ever seeing the master password.
+- **Inherited Security:** Primary account protections (such as Google's **MFA** policies) remain fully active.
+
+---
+
+## 3. API Tokens
+
+> [!note] How OAuth Transmits Access
+> OAuth facilitates delegated access through **API Tokens** rather than transmitting raw credentials.
+
+- **What is an API Token?** A small block of cryptographically signed or encrypted data generated by an authorization server containing the user's identity, expiration timestamp, and specific permission scopes.
+- **Breach Containment:** If the third-party application suffers a data breach, only the scoped API token is compromised. The user's primary password remains safe, and the token can be instantly revoked from the primary account dashboard.
+
+---
+
+# Comparison: Basic Auth vs. OAuth
+
+| Feature | HTTP Basic Auth | OAuth |
+| :--- | :--- | :--- |
+| **Credential Exposure** | Sends raw username/password with every request | Credentials are never shared; uses API tokens |
+| **Granular Permissions** | All-or-nothing access | Scoped permissions (e.g., read-only profile access) |
+| **Revocation** | Must change master password to revoke access | Token can be revoked individually without resetting passwords |
+| **MFA Compatibility** | Does not natively support MFA | Seamlessly integrates with identity provider MFA |
+| **Primary Use Case** | Legacy internal APIs / simple admin endpoints | Modern web and mobile third-party delegated authorization |
+
+---
+
+# Exam Tips
+
+> [!tip] Key Distinctions
+> - **Authentication vs. Authorization:** Authentication = *Identity validation* (*Who you are*); Authorization = *Permission rights* (*What you can do*).
+> - **Separation of Duties (SoD):** Divides critical functions among different users to eliminate single points of compromise and conflicts of interest.
+> - **HTTP Basic Auth:** Insecure on plain HTTP because it transmits credentials in cleartext; must be paired with HTTPS.
+> - **OAuth:** Open standard for **delegated authorization**; passes **API tokens** instead of user passwords.
+> - **API Token Benefit:** Scoped, temporary, easily revoked, and prevents third-party breaches from compromising master credentials.
+
+---
+
+## Related Notes
+
+- [[Authentication and the AAA Framework]]
+- [[Security Controls and Data Privacy]]
+- [[Cryptography and Public Key Infrastructure]]
+- [[Cybersecurity Fundamentals]]
+- [[Common Threats, Risks, and Vulnerabilities]]
