@@ -353,6 +353,7 @@ print("Index of 'ts':", user_log.index("ts"))  # Output: 0
 
 ## Related Notes
 
+- [[Working with Lists in Python]]
 - [[Defining and Calling Functions in Python]]
 - [[Parameters, Return Statements, and Variable Scope in Python]]
 - [[Built-in Functions in Python]]

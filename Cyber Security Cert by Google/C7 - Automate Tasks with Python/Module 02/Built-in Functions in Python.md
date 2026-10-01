@@ -274,6 +274,7 @@ Before sorting raw event logs, sanitize and standardize the data types using lis
 
 ## Related Notes
 
+- [[Working with Lists in Python]]
 - [[Working with Strings in Python]]
 - [[Defining and Calling Functions in Python]]
 - [[Parameters, Return Statements, and Variable Scope in Python]]

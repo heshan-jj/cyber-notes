@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 02/Working with Strings in Python.md",
+                "file": "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 02/Working with Lists in Python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Working with Strings in Python"
+              "title": "Working with Lists in Python"
             }
           }
         ]
@@ -185,8 +185,9 @@
   },
   "active": "b1d696e598510fe7",
   "lastOpenFiles": [
-    "Random Shi I do/make a simple x-ray vpn.md",
     "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 02/Working with Strings in Python.md",
+    "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 02/Working with Lists in Python.md",
+    "Random Shi I do/make a simple x-ray vpn.md",
     "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 02/Built-in Functions in Python.md",
     "Random Shi I do",
     "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 02/Defining and Calling Functions in Python.md",
@@ -216,7 +217,6 @@
     "Cyber Security Cert by Google/C5 - Assets, Threats and Vulnerabilities/Module 02/Security Controls and Data Privacy.md",
     "Cyber Security Cert by Google/C5 - Assets, Threats and Vulnerabilities/Module 02/Privacy Regulations, Audits, and Assessments.md",
     "Cyber Security Cert by Google/C5 - Assets, Threats and Vulnerabilities/Module 02/Cryptography and Public Key Infrastructure.md",
-    "Cyber Security Cert by Google/C5 - Assets, Threats and Vulnerabilities/Module 02/Authorization, Separation of Duties, and OAuth.md",
     "Cyber Security Cert by Google/C4 - Linux & SQL/SQL",
     "Cyber Security Cert by Google/C4 - Linux & SQL",
     "Cyber Security Cert by Google/C3 - Network Security/Module 04",

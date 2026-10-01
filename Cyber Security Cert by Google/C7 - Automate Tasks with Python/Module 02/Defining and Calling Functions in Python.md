@@ -255,6 +255,7 @@ Every function call consumes memory on Python's **call stack**. Without an `if` 
 
 ## Related Notes
 
+- [[Working with Lists in Python]]
 - [[Working with Strings in Python]]
 - [[Built-in Functions in Python]]
 - [[Parameters, Return Statements, and Variable Scope in Python]]

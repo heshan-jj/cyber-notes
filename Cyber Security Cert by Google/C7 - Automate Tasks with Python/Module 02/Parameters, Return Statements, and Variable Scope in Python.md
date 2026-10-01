@@ -325,6 +325,7 @@ Output:
 
 ## Related Notes
 
+- [[Working with Lists in Python]]
 - [[Working with Strings in Python]]
 - [[Defining and Calling Functions in Python]]
 - [[Built-in Functions in Python]]
