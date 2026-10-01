@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "119d1180ddf07b2f",
+        "id": "4265941149fca32a",
         "type": "tabs",
         "children": [
           {
-            "id": "5c6fe685d2dc68c3",
+            "id": "b1d696e598510fe7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 01/Conditional Statements in Python.md",
+                "file": "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 02/Working with Strings in Python.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Conditional Statements in Python"
+              "title": "Working with Strings in Python"
             }
           }
         ]
@@ -183,13 +183,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c6fe685d2dc68c3",
+  "active": "b1d696e598510fe7",
   "lastOpenFiles": [
+    "Random Shi I do/make a simple x-ray vpn.md",
+    "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 02/Working with Strings in Python.md",
+    "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 02/Built-in Functions in Python.md",
+    "Random Shi I do",
+    "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 02/Defining and Calling Functions in Python.md",
+    "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 02/Parameters, Return Statements, and Variable Scope in Python.md",
+    "Untitled.canvas",
+    "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 01/Conditional Statements in Python.md",
     "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 01/Iterative Statements in Python.md",
     "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 02/Iterative Statements in Python.md",
     "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 01/Python Variables and Naming Conventions.md",
     "Cyber Security Cert by Google/C3 - Network Security/Module 04/OS Hardening.md",
-    "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 01/Conditional Statements in Python.md",
     "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 01/Python Data Types.md",
     "Cyber Security Cert by Google/C7 - Automate Tasks with Python/Module 01/Python Environments and Notebooks.md",
     "Cyber Security Cert by Google/C5 - Assets, Threats and Vulnerabilities/Module 03/Attack Vectors and the Attacker Mindset.md",
@@ -210,14 +217,8 @@
     "Cyber Security Cert by Google/C5 - Assets, Threats and Vulnerabilities/Module 02/Privacy Regulations, Audits, and Assessments.md",
     "Cyber Security Cert by Google/C5 - Assets, Threats and Vulnerabilities/Module 02/Cryptography and Public Key Infrastructure.md",
     "Cyber Security Cert by Google/C5 - Assets, Threats and Vulnerabilities/Module 02/Authorization, Separation of Duties, and OAuth.md",
-    "Cyber Security Cert by Google/C5 - Assets, Threats and Vulnerabilities/Module 02/Authentication and the AAA Framework.md",
-    "Cyber Security Cert by Google/C5 - Assets, Threats and Vulnerabilities/Module 02/Accounting and Session Management.md",
-    "Cyber Security Cert by Google/C5 - Assets, Threats and Vulnerabilities/Module 01/Compliance and the NIST Cybersecurity Framework.md",
-    "Cyber Security Cert by Google/C5 - Assets, Threats and Vulnerabilities/Module 01/Elements of a Security Plan.md",
-    "Cyber Security Cert by Google/C5 - Assets, Threats and Vulnerabilities/Module 01/Assets, Threats, and Vulnerabilities.md",
     "Cyber Security Cert by Google/C4 - Linux & SQL/SQL",
     "Cyber Security Cert by Google/C4 - Linux & SQL",
-    "Untitled",
     "Cyber Security Cert by Google/C3 - Network Security/Module 04",
     "Cyber Security Cert by Google/C3 - Network Security/Module 03",
     "Cyber Security Cert by Google/C3 - Network Security/Module 02",
@@ -226,7 +227,6 @@
     "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Attachments/Pasted image 20260802192504.png",
     "Cyber Security Cert by Google/Foundations of Cyber Security/Module 02/Attachments/Pasted image 20260802184654.png",
     "Cyber Security Cert by Google/Foundations of Cyber Security/Module 02/Attachments/Pasted image 20260802184615.png",
-    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Attachments/Pasted image 20260802184551.png",
-    "Untitled.canvas"
+    "Cyber Security Cert by Google/C1 - Foundations of Cyber Security/Module 02/Attachments/Pasted image 20260802184551.png"
   ]
 }

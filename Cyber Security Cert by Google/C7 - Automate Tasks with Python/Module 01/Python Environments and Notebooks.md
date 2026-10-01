@@ -128,9 +128,14 @@ The command line is indispensable for security professionals, especially when ma
 
 ## Related Notes
 
+- [[Programming and Python in Cybersecurity]]
 - [[Python Variables and Naming Conventions]]
 - [[Python Data Types]]
-- [[Programming and Python in Cybersecurity]]
+- [[Conditional Statements in Python]]
+- [[Iterative Statements in Python]]
+- [[Defining and Calling Functions in Python]]
+- [[Parameters, Return Statements, and Variable Scope in Python]]
+- [[Built-in Functions in Python]]
 - [[Tools and their purposes]]
 - [[Common Security Tools]]
 - [[Cybersecurity Fundamentals]]

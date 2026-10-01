@@ -201,6 +201,10 @@ Following the official Python style guide (**PEP 8**) ensures team readability a
 ## Related Notes
 
 - [[Conditional Statements in Python]]
+- [[Iterative Statements in Python]]
+- [[Defining and Calling Functions in Python]]
+- [[Parameters, Return Statements, and Variable Scope in Python]]
+- [[Built-in Functions in Python]]
 - [[Python Data Types]]
 - [[Python Environments and Notebooks]]
 - [[Programming and Python in Cybersecurity]]

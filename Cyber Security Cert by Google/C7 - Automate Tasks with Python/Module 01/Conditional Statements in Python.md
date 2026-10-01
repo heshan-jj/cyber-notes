@@ -286,6 +286,9 @@ else:
 
 ## Related Notes
 
+- [[Defining and Calling Functions in Python]]
+- [[Parameters, Return Statements, and Variable Scope in Python]]
+- [[Built-in Functions in Python]]
 - [[Python Variables and Naming Conventions]]
 - [[Python Data Types]]
 - [[Python Environments and Notebooks]]

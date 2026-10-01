@@ -498,6 +498,9 @@ if not authenticated:
 
 ## Related Notes
 
+- [[Defining and Calling Functions in Python]]
+- [[Parameters, Return Statements, and Variable Scope in Python]]
+- [[Built-in Functions in Python]]
 - [[Conditional Statements in Python]]
 - [[Python Variables and Naming Conventions]]
 - [[Python Data Types]]

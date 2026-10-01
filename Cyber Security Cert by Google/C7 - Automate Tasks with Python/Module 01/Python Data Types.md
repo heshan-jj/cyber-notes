@@ -321,6 +321,10 @@ print(unique_ips)
 ## Related Notes
 
 - [[Conditional Statements in Python]]
+- [[Iterative Statements in Python]]
+- [[Defining and Calling Functions in Python]]
+- [[Parameters, Return Statements, and Variable Scope in Python]]
+- [[Built-in Functions in Python]]
 - [[Python Variables and Naming Conventions]]
 - [[Programming and Python in Cybersecurity]]
 - [[Python Environments and Notebooks]]

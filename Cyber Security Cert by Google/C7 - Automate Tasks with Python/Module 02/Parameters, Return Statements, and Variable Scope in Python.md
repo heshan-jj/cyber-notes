@@ -24,7 +24,7 @@ aliases:
 ---
 
 > [!abstract] Parameters, Return Statements & Variable Scope
-> Functions become truly powerful when they can accept dynamic input, process it, and output meaningful results. **Parameters** act as placeholders in function headers, while **arguments** are the actual data passed into those parameters during function invocation. The **`return`** keyword outputs processed data back to the main program for storage and conditional evaluation. Furthermore, understanding **variable scope**—the distinction between **global variables** (accessible everywhere) and **local variables** (restricted to a function's execution lifecycle)—is critical for writing modular, bug-free security automation tools.
+> Functions become truly powerful when they can accept dynamic input, process it, and output meaningful results. **Parameters** act as placeholders in [[Defining and Calling Functions in Python|function headers]], while **arguments** are the actual data passed into those parameters during function invocation. The **`return`** keyword outputs processed data back to the main program for storage and [[Conditional Statements in Python|conditional evaluation]]. Furthermore, understanding **variable scope**—the distinction between **global variables** (accessible everywhere) and **local variables** (restricted to a function's execution lifecycle)—is critical for writing modular, bug-free security automation tools.
 
 ---
 
@@ -52,8 +52,8 @@ While often used interchangeably in casual conversation, **parameters** and **ar
 
 | Characteristic | Parameter | Argument |
 | :--- | :--- | :--- |
-| **Where Defined** | In the **function header** during definition | In the **function call** during invocation |
-| **Role** | Variable/placeholder waiting for data | Concrete value/data passed into the placeholder |
+| **Where Defined** | In the **function header** during definition (see [[Defining and Calling Functions in Python]]) | In the **function call** during invocation |
+| **Role** | [[Python Variables and Naming Conventions\|Variable]] / placeholder waiting for data | Concrete value / [[Python Data Types\|data structure]] passed into the placeholder |
 | **Scope** | Local to the function | Defined in the caller's environment |
 | **Example** | `def calc_risk(ip_score, vuln_level):` | `calc_risk(85, 3)` |
 
@@ -112,7 +112,7 @@ def remaining_login_attempts(maximum_attempts, total_attempts):
 
 ## Capturing Return Values in Variables
 
-Returning information allows you to capture the result in a variable and pass it to downstream security checks, such as automated account lockout logic:
+Returning information allows you to capture the result in a variable and pass it to downstream security checks, such as automated account lockout logic guarding against [[Brute Force Attacks|brute-force attacks]]:
 
 ```python
 def remaining_login_attempts(maximum_attempts, total_attempts):
@@ -138,7 +138,7 @@ Your account is locked
 | **Purpose** | Displays output to the human console/terminal | Sends programmatic data back to the caller |
 | **Variable Assignment** | Returns `None`; cannot be stored or reused | Stored directly into variables for further processing |
 | **Execution Impact** | Code execution continues to the next line | **Immediately terminates** the function execution |
-| **Typical SecOps Role** | Logging status messages, debug console prints | Returning parsed IP lists, threat scores, boolean flags |
+| **Typical SecOps Role** | Logging status messages, debug console prints | Returning parsed IP lists, threat scores, boolean flags to [[Playbooks and Incident Response\|playbooks]] |
 
 ---
 
@@ -320,3 +320,22 @@ Output:
 > - **Global Scope:** Variables defined outside functions; available throughout the entire program.
 > - **Local Scope:** Parameters and variables defined inside a function; created at runtime and deleted upon function exit.
 > - **Clean Architecture:** Pass inputs explicitly via parameters and capture outputs via `return` rather than manipulating global state.
+
+---
+
+## Related Notes
+
+- [[Working with Strings in Python]]
+- [[Defining and Calling Functions in Python]]
+- [[Built-in Functions in Python]]
+- [[Conditional Statements in Python]]
+- [[Iterative Statements in Python]]
+- [[Python Variables and Naming Conventions]]
+- [[Python Data Types]]
+- [[Programming and Python in Cybersecurity]]
+- [[Python Environments and Notebooks]]
+- [[Authentication and the AAA Framework]]
+- [[Brute Force Attacks]]
+- [[Logs and SIEM Tools]]
+- [[Playbooks and Incident Response]]
+- [[Firewalls]]

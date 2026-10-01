@@ -140,8 +140,14 @@ Security analysts choose Python over many alternatives due to several structural
 
 ## Related Notes
 
+- [[Python Variables and Naming Conventions]]
 - [[Python Data Types]]
 - [[Python Environments and Notebooks]]
+- [[Conditional Statements in Python]]
+- [[Iterative Statements in Python]]
+- [[Defining and Calling Functions in Python]]
+- [[Parameters, Return Statements, and Variable Scope in Python]]
+- [[Built-in Functions in Python]]
 - [[Cybersecurity Fundamentals]]
 - [[Tools and their purposes]]
 - [[Common Security Tools]]
