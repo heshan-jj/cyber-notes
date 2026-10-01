@@ -89,3 +89,4 @@ It is a thorough risk assessment that can evaluate and identify external and int
 ## Related Notes
 - [[Common Security Tools]]
 - [[Logs and SIEM Tools]]
+- [[Programming and Python in Cybersecurity]]

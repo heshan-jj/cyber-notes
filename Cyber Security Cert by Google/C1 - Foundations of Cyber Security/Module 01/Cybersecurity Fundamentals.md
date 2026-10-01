@@ -160,3 +160,4 @@ Programming allows analysts to automate repetitive tasks such as log analysis, t
 - [[Security Ethics]]
 - [[Common Security Tools]]
 - [[Logs and SIEM Tools]]
+- [[Programming and Python in Cybersecurity]]
